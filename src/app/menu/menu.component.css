@@ -1,0 +1,43 @@
+.menu {
+    padding :0;
+    margin : 0;
+    background-color: #1f2220;
+    height : 4em;
+  border-left: 1px solid rgb(232, 235, 234);
+ 
+  
+}
+#reg {
+  border-top: 1px solid rgb(232, 235, 234);
+}
+.scritta_menu {
+    padding : 0;
+    margin: 0;
+    color : rgb(247, 247, 247);
+    height: 4em;
+    margin-top: 1em;
+    margin-left:2%;
+    margin-right:2%;
+}
+#titolo {
+    color : rgb(247, 247, 247);
+    margin-left : 10%;
+    height: 4em;
+    margin-top: 1em;
+}
+
+#box-titolo{
+    background-color: #1f2220;
+    height : 4em;
+  border-left: 1px solid rgb(238, 243, 238);
+}
+@media only screen and (max-width : 576px) {
+  #box-titolo{
+   
+  border-bottom: 1px solid rgb(238, 243, 238);
+}
+}
+div.menu:hover {
+    background-color: #000000;
+  }
+  

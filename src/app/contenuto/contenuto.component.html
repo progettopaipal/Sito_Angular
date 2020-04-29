@@ -1,0 +1,24 @@
+<div class="cont row">
+    <div  [ngStyle]="{'height': valore === true ? '35em':'auto'}"class="col-12">
+        
+        <p>
+         <font color="#729fcf">
+        <font face="Chilanka">
+            <font size="6" style="font-size: 24pt">				
+            <font color="#f10d0c">Alcuni avvenimenti sulla loro vita</font>
+                </font>
+            </font>
+        </font>
+        </p>
+
+        <ul class = " list-group">
+            <li [ngStyle]="{'backgroundColor': condizione === true ? '#93f0b2':'#71d5ee'}" class="list-group-item" *ngFor="let avvenimento of vita">{{ avvenimento }}</li>
+        </ul>
+        <p class = " frase">{{frase}}</p>
+    </div>
+</div>
+<div class="cont row">
+    <div style = "margin-left:30%;" class="col-6">
+        <img src="../../assets/sfondo.jpg" class= "img-fluid" alt="Non disponibile">
+    </div>
+</div>
