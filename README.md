@@ -25,4 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# Sito_Angular
+# Used framework and programming language
+<LI>ANGULAR</LI>
+<LI>VISUAL STUDIO CODE</LI>
+<LI>HTML CSS JAVASCRIPT TYPESCRIPT</LI>
+<LI>FILE JSON</LI>
+<LI> AJAX</LI>
+<LI>SHELL LINUX </LI>
+<LI>BROWSER</LI>
+
